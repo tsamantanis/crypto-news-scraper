@@ -1,6 +1,6 @@
 # 🕷 makescraper
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/YOUR_GITHUB_USERNAME/makescraper)](https://goreportcard.com/report/github.com/YOUR_GITHUB_USERNAME/makescraper)
+[![Go Report Card](https://goreportcard.com/badge/github.com/tsamantanis/crypto-news-scraper)](https://goreportcard.com/report/github.com/tsamantanis/crypto-news-scraper)
 
 _Create your very own web scraper and crawler using Go and [Colly](https://go-colly.org)!_
 
@@ -28,7 +28,7 @@ _Create your very own web scraper and crawler using Go and [Colly](https://go-co
     $ git clone git@github.com:Make-School-Labs/makescraper.git
     $ cd makescraper
     $ git remote rm origin
-    $ git remote add origin git@github.com:YOUR_GITHUB_USERNAME/makescraper.git
+    $ git remote add origin git@github.com:tsamantanis/crypto-news-scraper.git
     $ go mod download
     ```
 
